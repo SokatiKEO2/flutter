@@ -5,6 +5,10 @@ This project includes:
 - **Backend:** Node.js + Express server connected to SQL Server database  
 - **Frontend:** Flutter app for managing products
 ## Installation
+```bash
+git clone https://github.com/SokatiKEO2/flutter.git
+cd flutter
+```
 
 ### Backend Setup
 
